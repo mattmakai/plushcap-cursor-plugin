@@ -1,0 +1,21 @@
+{
+  "name": "plushcap",
+  "displayName": "Plushcap",
+  "version": "1.0.0",
+  "description": "Research developer and AI trends, compare competitors, and analyze technical content with Plushcap.",
+  "author": {
+    "name": "Plushcap",
+    "email": "matt@plushcap.com"
+  },
+  "homepage": "https://www.plushcap.com/docs/mcp",
+  "license": "MIT",
+  "keywords": [
+    "developer marketing",
+    "competitive research",
+    "engineering blogs",
+    "developer trends",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "./mcp.json"
+}

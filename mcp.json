@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plushcap": {
+      "type": "http",
+      "url": "https://mcp.plushcap.com/mcp"
+    }
+  }
+}
